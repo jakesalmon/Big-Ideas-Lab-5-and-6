@@ -10,6 +10,7 @@ name = input("What is your name?")
 print("Hello, " + name + "!")
 ```
 This portion of the code asks the user for their name, and then says hello to them! Very cool and smart. 
+
 ![](https://c.tenor.com/ARdMaAqqXo0AAAAM/very-intelligent-smart.gif)
 
 #### Code Segment 3
@@ -18,6 +19,7 @@ if (int(iteration) < 0 ):
     print("Stop being smart with me. Try again.")
 ```
 This portion of the code catches the user if they are trying to sabotage my grade by finding an error. 
+
 ![](https://c.tenor.com/df0VzX7jWGIAAAAd/dumb-and-dumber-in-your-face.gif)
 
 #### Code Segment 2
@@ -27,6 +29,7 @@ for x in range(int(iteration)):
     print(name)
 ```
 This portion of the code asks the user how many times the program should repeat their name, and even goes on to repeat their name that number of times. AMAZING!!!!!!!!!!
+
 ![](https://c.tenor.com/XJIjlGieJbIAAAAC/good-afternoon-dogs.gif)
 
 #### Here is an example of how to use our very complicated program
